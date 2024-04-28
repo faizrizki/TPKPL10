@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\TPMOD10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1577A057-A38F-48A2-A651-E27AED159117}|TPMOD10\\TPMOD10.csproj|c:\\users\\mrizk\\documents\\rizki\\tugas\\semester 4\\kpl\\jurnal\\tpmod10\\tpmod10\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1577A057-A38F-48A2-A651-E27AED159117}|TPMOD10\\TPMOD10.csproj|solutionrelative:tpmod10\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1577A057-A38F-48A2-A651-E27AED159117}|TPMOD10\\TPMOD10.csproj|c:\\users\\mrizk\\documents\\rizki\\tugas\\semester 4\\kpl\\jurnal\\tpmod10\\tpmod10\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1577A057-A38F-48A2-A651-E27AED159117}|TPMOD10\\TPMOD10.csproj|solutionrelative:tpmod10\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mahasiswacontroller.cs",
+              "DocumentMoniker": "C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\TPMOD10\\TPMOD10\\Controllers\\mahasiswacontroller.cs",
+              "RelativeDocumentMoniker": "TPMOD10\\Controllers\\mahasiswacontroller.cs",
+              "ToolTip": "C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\TPMOD10\\TPMOD10\\Controllers\\mahasiswacontroller.cs",
+              "RelativeToolTip": "TPMOD10\\Controllers\\mahasiswacontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:44:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\TPMOD10\\TPMOD10\\mahasiswa.cs",
+              "RelativeDocumentMoniker": "TPMOD10\\mahasiswa.cs",
+              "ToolTip": "C:\\Users\\mrizk\\Documents\\Rizki\\Tugas\\Semester 4\\KPL\\jurnal\\TPMOD10\\TPMOD10\\mahasiswa.cs",
+              "RelativeToolTip": "TPMOD10\\mahasiswa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:42:23.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
